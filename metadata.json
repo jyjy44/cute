@@ -1,0 +1,6 @@
+{
+  "name": "تحدي الأصدقاء الكيوت - من يعرفني أكثر؟",
+  "description": "تطبيق مرح وكيوت باللغة العربية الفصحى لاختبار مدى معرفة أصدقائك بك مع شخصيات كرتونية لطيفة، أسئلة مميزة، ومشاركة التحديات!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
